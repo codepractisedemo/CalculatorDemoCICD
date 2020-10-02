@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Calcdemo\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csprojAssemblyReference.cache
